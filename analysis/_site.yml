@@ -1,7 +1,7 @@
-name: "032_R-4-Data-Science"
+name: 032_R-4-Data-Science
 output_dir: ../docs
 navbar:
-  title: "032_R-4-Data-Science"
+  title: R For Data Science Study
   left:
   - text: Home
     href: index.html
@@ -9,6 +9,13 @@ navbar:
     href: about.html
   - text: License
     href: license.html
+  - icon: fa-github
+    text: Source code
+    href: ~
+  right:
+  - icon: fa-github
+    text: Source code
+    href: https://github.com/ogorodriguez/032_R-4-Data-Science
 output:
   workflowr::wflow_html:
     toc: yes
