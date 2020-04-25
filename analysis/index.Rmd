@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Home R4DS"
 site: workflowr::wflow_site
 output:
   workflowr::wflow_html:
@@ -8,4 +8,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-Welcome to my research website.
+## Welcome 
+
+Welcom to my R for Data Science practice website.
+

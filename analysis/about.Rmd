@@ -7,4 +7,10 @@ editor_options:
   chunk_output_type: console
 ---
 
-Describe your project.
+## Objective
+
+The purpose of this site is to show the study of some of the chapters of the online book [R for Data Science](https://r4ds.had.co.nz/)
+
+The sequence of subsites will not necessarily reflect the sequence of the chapters in the book.
+
+
