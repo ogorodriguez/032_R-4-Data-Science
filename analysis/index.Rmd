@@ -10,5 +10,8 @@ editor_options:
 
 ## Welcome 
 
-Welcom to my R for Data Science practice website.
+Welcome to my R for Data Science practice website.
 
+The sequence of subsites will not necessarily reflect the sequence of the chapters in the book.
+
+1. [Functions: Chatper 19](19_chap-functions.html)
